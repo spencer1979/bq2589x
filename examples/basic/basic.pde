@@ -1,7 +1,7 @@
 //basic example 
 // by Spencer Chen 
 // Created @date 2019-11-04
-
+//
 #include <bq2589x.h>
 #include <Wire.h>
 bq2589x mycharger;
